@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RoopsagarK
-- 👀 I’m interested in development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning java and python
 - 📫 How to reach me roopsagarudayar9854@gmail.com
