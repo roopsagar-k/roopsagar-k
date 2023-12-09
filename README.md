@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **roopsagarudayar9854@gamil.com**
 
-- ⚡ Fun fact **Kinda Artist 😁🎨**
+- ⚡ Fun fact **Kinda Artist 😁🎨🖌️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
