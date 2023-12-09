@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RoopsagarK
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning backend(NodeJs, ExpressJS, PostgreSQL)
+- 🌱 I’m currently learning Backend (NodeJs, ExpressJS, PostgreSQL)
 - 📫 How to reach me roopsagarudayar9854@gmail.com
