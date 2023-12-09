@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopsagark&show_icons=true&locale=en&theme=radical" alt="roopsagark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roopsagark&" alt="roopsagark&theme=transparent" /></p>
+![Roopsagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=roopsagark&show_icons=true&theme=transparent)
