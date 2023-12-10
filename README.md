@@ -21,7 +21,7 @@
 
 <table>
   <tbody>
-    <tr valign="top" style="display: flex; flex: wrap;">
+    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
