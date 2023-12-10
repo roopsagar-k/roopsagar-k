@@ -26,10 +26,6 @@
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
        <td width="25%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://www.svgrepo.com/show/452228/html-5.svg">
@@ -37,6 +33,10 @@
        <td width="25%" align="center">
         <span>CSS-3</span><br><br><br>
         <img height="64px" src="https://www.svgrepo.com/show/452185/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮Script</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/353925/javascript.svg">
       </td>
     </tr>
     <tr>
