@@ -89,5 +89,5 @@
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=roopsagark&count_private=true&theme=algolia&border_radius=20)
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roopsagark&layout=compact&show_icons=true&theme=algolia&border_radius=20)/></p>
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roopsagark&layout=compact&show_icons=true&theme=algolia&border_radius=20)></p>
 </div>
