@@ -85,7 +85,9 @@
 </table>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roopsagark&theme=algolia&border_radius=20" alt="roopsagark" /></p><br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roopsagark&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=20" alt="roopsagark" /></p><br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopsagark&show_icons=true&locale=en&theme=algolia&border_radius=20" alt="roopsagark" /></p>
+  ![Roopsagar's Stats](https://github-readme-streak-stats.herokuapp.com/?user=roopsagark&show_icons=true&locale=en&theme=algolia&border_radius=20)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=roopsagark&count_private=true&theme=algolia&border_radius=20)
+
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roopsagark&layout=compact&show_icons=true&theme=algolia&border_radius=20)/></p>
 </div>
