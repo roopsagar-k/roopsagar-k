@@ -85,7 +85,7 @@
 </table>
 
 <div align="center">
-  ![Roopsagar's Stats](https://github-readme-streak-stats.herokuapp.com/?user=roopsagark&show_icons=true&locale=en&theme=algolia&border_radius=20)
+  ![Roopsagar's Stats](https://github-readme-stats.vercel.app/api?username=roopsagark&show_icons=true&locale=en&theme=algolia&border_radius=20)
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=roopsagark&count_private=true&theme=algolia&border_radius=20)
 
