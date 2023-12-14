@@ -85,7 +85,7 @@
 </table>
 
 <div align="center">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roopsagark&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=20" alt="roopsagark" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roopsagark&show_icons=true&locale=en&layout=compact&theme=algolia&border_radius=20" alt="roopsagark" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopsagark&show_icons=true&locale=en&theme=algolia&border_radius=20" alt="roopsagark" /></p>
 
