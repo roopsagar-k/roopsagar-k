@@ -41,8 +41,8 @@
     </tr>
     <tr>
       <td width="25%" align="center">
-        <span>Svelte</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/354416/svelte-icon.svg">
+        <span>ReactJS</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/354200](https://www.svgrepo.com/show/355190/reactjs.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
@@ -79,6 +79,10 @@
       <td width="25%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+            <td width="25%" align="center">
+        <span>Svelte</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/354416/svelte-icon.svg">
       </td>
     </tr>
   </tbody>
