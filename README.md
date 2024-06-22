@@ -90,11 +90,11 @@
 
 <div align="center">
   
-  ![Roopsagar's Stats](https://github-readme-stats.vercel.app/api?username=roopsagark&show_icons=true&locale=en&theme=algolia&border_radius=20)
+  ![Roopsagar's Stats](https://github-readme-stats.vercel.app/api?username=roopsagar-k&show_icons=true&locale=en&theme=algolia&border_radius=20)
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=roopsagark&count_private=true&theme=algolia&border_radius=20)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=roopsagar-k&count_private=true&theme=algolia&border_radius=20)
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roopsagark&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roopsagar-k&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
   </div>
 
