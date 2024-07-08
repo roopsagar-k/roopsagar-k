@@ -80,9 +80,23 @@
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-            <td width="25%" align="center">
+      <td width="25%" align="center">
         <span>Svelte</span><br><br><br>
         <img height="64px" src="https://www.svgrepo.com/show/354416/svelte-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/354259/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Type script</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/439022/typescript.svg">
+      </td>
+    </tr>
+    <tr>
+       <td width="25%" align="center">
+        <span>Type script</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/354112/nextjs.svg">
       </td>
     </tr>
   </tbody>
