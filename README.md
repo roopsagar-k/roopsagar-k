@@ -95,7 +95,7 @@
     </tr>
     <tr>
        <td width="25%" align="center">
-        <span>Type script</span><br><br><br>
+        <span>NEXT JS</span><br><br><br>
         <img height="64px" src="https://www.svgrepo.com/show/354112/nextjs.svg">
       </td>
     </tr>
